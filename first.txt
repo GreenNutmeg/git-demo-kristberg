@@ -1,3 +1,5 @@
 This is the first file being added for the git demo.
 
 Line 3
+
+Line 5
